@@ -10,11 +10,17 @@ A B2B platform that:
 Matches companies using AI
 Enables waste exchange
 Tracks environmental impact
+
+
+
 ⚙️ Features
 🤖 AI-based matchmaking
 🔗 Secure transactions
 📊 Impact analytics
 🌐 Scalable cloud system
+
+
+
 
 
 🛠️ Tech Stack
@@ -23,6 +29,9 @@ Backend: Node.js / Python
 Database: Firebase / MongoDB
 AI: Matching algorithm
 Blockchain (optional)
+
+
+
 
 🚀 Future Scope
 IoT integration
