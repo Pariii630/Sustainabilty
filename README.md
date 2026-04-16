@@ -1,6 +1,12 @@
 # 🌱 Sustainability Platform
 
 ![System Diagram](visual.png)
+
+## 🚀 Live Demo  
+Coming soon...
+
+## 💡 Overview  
+An AI-powered B2B platform that connects industries to exchange waste as valuable resources and track environmental impact.
 🚨 Problem
 
 Industries generate large amounts of reusable waste, but:
