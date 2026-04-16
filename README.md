@@ -1,4 +1,6 @@
 # 🌱 Sustainability Platform
+
+![System Diagram](visual.png)
 🚨 Problem
 
 Industries generate large amounts of reusable waste, but:
